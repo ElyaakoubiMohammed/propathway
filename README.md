@@ -86,13 +86,13 @@ pnpm start
 ## 👨‍💻 Author
 
 **Mohammed Elyaakoubi**  
-[GitHub](https://github.com/ElyaakoubiMohammed) · [LinkedIn](https://www.linkedin.com/in/mohammed-elyaakoubi-1b3909243/])
 
 ---
 
 ## 📄 License
 
 This project is open source and available for educational and personal use.
+
 
 
 
